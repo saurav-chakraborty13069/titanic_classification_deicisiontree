@@ -1,1 +1,1 @@
-# titanic_classification_deisiontree
+# titanic_classification_deicisiontree
